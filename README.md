@@ -9,7 +9,7 @@ Técnico de Informática. Estou cursando Ciências da Computação na Atitus Edu
 
 
    <p align="left">
-      <a href="https://www.linkedin.com/in/-gabrielnunes"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+      <a href="https://www.linkedin.com/in/-gabrielnunes" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
     </p>
 
